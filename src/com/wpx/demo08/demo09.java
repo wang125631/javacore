@@ -22,10 +22,10 @@ abstract class CodeRuntime{
 		System.out.println("Runtime "+(endTime - start));
 	}
 }
-public class demo10 extends CodeRuntime{
+public class demo09 extends CodeRuntime{
 
 	public static void main(String[] args) {
-		demo10 d=new demo10();
+		demo09 d=new demo09();
 		d.getTime();
 	}
 	@Override
