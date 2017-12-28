@@ -87,10 +87,21 @@ demo07 ->  面向对象
 	  demo03 -> 接口作用
 	  demo04 -> 类与接口
 	  demo05 -> 面向对象的三大特性---多态
+	  demo06 -> 多态的应用
+	  demo07 -> 静态内部类
+	  demo08 -> 局部内部类
+	  demo09 -> 匿名内部类
+	  demo10 -> 实现关系下的匿名内部类  
+
+demo08 ->  异常
+
+ 	  demo01 ->  
+	  demo02 -> 
+	  demo03 ->  
+	  demo04 ->   
+	  demo05 ->  
 	  demo06 ->  
 	  demo07 ->  
 	  demo08 ->  
 	  demo09 ->  
 	  demo10 ->  
-
-demo08 ->  函数

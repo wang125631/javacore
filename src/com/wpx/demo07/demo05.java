@@ -20,9 +20,27 @@ package com.wpx.demo07;
  * @author wangpx
  */
 abstract class Animal{
+	String name;
+	public abstract void run();
 	
 }
+class Mouse extends Animal{
 
+	@Override
+	public void run() {
+		System.out.println("Mouse run....");
+	}
+	//特有方法
+	public void dig() {
+		System.out.println("Mouse dig...");
+	}
+	
+}
 public class demo05 {
 
+	public static void main(String[] args) {
+		//多态： 父类的引用类型变量指向子类的对象
+	Animal a = new Mouse();
+	a.run();
+	}
 }
