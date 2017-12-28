@@ -13,6 +13,28 @@ package com.wpx.demo08;
 		
  * @author wangpx
  */
-public class demo10 {
+abstract class CodeRuntime{
+	public abstract void code();
+	public final void getTime(){
+		long start = System.currentTimeMillis();
+		code();
+		long endTime = System.currentTimeMillis();
+		System.out.println("Runtime "+(endTime - start));
+	}
+}
+public class demo10 extends CodeRuntime{
+
+	public static void main(String[] args) {
+		demo10 d=new demo10();
+		d.getTime();
+	}
+	@Override
+	public void code() {
+		int i=0;
+		while(i<5000) {
+			System.out.println(i);
+			i++;
+		}
+	}
 
 }
