@@ -93,15 +93,15 @@ demo07 ->  面向对象
 	  demo09 -> 匿名内部类
 	  demo10 -> 实现关系下的匿名内部类  
 
-demo08 ->  异常
+demo08 ->  异常机制,命名规范
 
- 	  demo01 ->  
-	  demo02 -> 
-	  demo03 ->  
-	  demo04 ->   
-	  demo05 ->  
-	  demo06 ->  
-	  demo07 ->  
-	  demo08 ->  
-	  demo09 ->  
+ 	  demo01 -> 什么是异常
+	  demo02 -> 异常和错误
+	  demo03 -> 抛异常
+	  demo04 -> try catch捕获异常
+	  demo05 -> 包
+	  demo06 -> 导包
+	  demo07 -> 权限修饰符
+	  demo08 -> 打jar包
+	  demo09 -> 模板模式
 	  demo10 ->  
