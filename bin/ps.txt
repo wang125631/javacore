@@ -1,4 +1,4 @@
-
+类的命名应为大写,为了方便这里均为小写,如果用的到请自行修改
 
 demo01 ->  变量量,标识符,进制转化
 
@@ -104,4 +104,39 @@ demo08 ->  异常机制,命名规范
 	  demo07 -> 权限修饰符
 	  demo08 -> 打jar包
 	  demo09 -> 模板模式
-	  demo10 ->  
+
+demo09 ->  常用工具类
+
+ 	  demo01 -> Object类
+	  demo02 -> String
+	  demo03 -> StringBuffer
+	  demo04 -> System类
+	  demo05 -> Runtime
+	  demo06 -> Date,Calendar,SimpleDateFormat
+	  demo07 -> Math类
+	  demo08 -> Random的用处 
+
+demo10 ->  线程
+
+ 	  demo01 -> 什么是线程
+	  demo02 -> 线程中常用的方法
+	  demo03 -> 经典多线程售票问题
+	  demo04 -> 死锁
+	  demo05 -> 自定义线程的创建方式
+	  demo06 -> 线程通信wait/notify
+	  demo07 -> 线程的停止 
+	  demo08 -> 守护线程（后台线程）
+	  demo09 -> join方法
+	  
+demo11 ->  集合
+
+ 	  demo01 -> Collection接口
+	  demo02 -> 判断
+	  demo03 -> toArray 
+	  demo04 -> list
+	  demo05 -> list特有方法
+	  demo06 -> listIterator
+	  demo07 -> 遍历集合的方法
+	  demo08 -> 迭代器
+	  demo09 -> 集合体系说明
+	  demo10 -> 去重
