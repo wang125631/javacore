@@ -140,3 +140,16 @@ demo11 ->  集合
 	  demo08 -> 迭代器
 	  demo09 -> 集合体系说明
 	  demo10 -> 去重
+	  
+demo12 ->  集合
+
+ 	  demo01 -> linkedList
+	  demo02 -> 安全机制--泛型
+	  demo03 -> 自定义泛型
+	  demo04 -> 泛型的用途
+	  demo05 -> 泛型接口
+	  demo06 -> 泛型的上下限
+	  demo07 -> hashSet
+	  demo08 -> TreeSet
+	  demo09 -> 
+	  demo10 -> 
