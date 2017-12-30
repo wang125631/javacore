@@ -1,4 +1,8 @@
 package com.wpx.demo12;
+
+import java.util.Comparator;
+import java.util.TreeSet;
+
 /**
  *  treeSet添加自定义元素:
 
@@ -20,6 +24,55 @@ package com.wpx.demo12;
 
  * @author wangpx
  */
+
+
+
+class Student8 implements Comparable<Student8>{
+
+	int age;
+	String  name;
+	
+	public Student8(int age, String name) {
+		super();
+		this.age = age;
+		this.name = name;
+	}
+	
+	@Override
+	public String toString() {
+		return "Student [age=" + age + ", name=" + name + "]";
+	}
+
+	@Override
+	public int compareTo(Student8 o) {
+		return this.age-o.age;
+	}
+	
+}
+class MyComparator implements Comparator<Student8>{
+
+	@Override
+	public int compare(Student8 o1, Student8 o2) {
+		return o2.age-o1.age;
+	}
+	
+}
 public class demo08 {
 
+	public static void main(String[] args) {
+	
+	TreeSet treeSet=new TreeSet<Student8>();
+	treeSet.add(new Student8(19, "wpx1"));
+	treeSet.add(new Student8(14, "wpx2"));
+	treeSet.add(new Student8(21, "wpx3"));
+	
+	System.out.println(treeSet);
+	
+	MyComparator myComparator=new MyComparator();
+	TreeSet treeSet2=new TreeSet(myComparator);
+	treeSet2.add(new Student8(19, "wpx1"));
+	treeSet2.add(new Student8(14, "wpx1"));
+	treeSet2.add(new Student8(21, "wpx1"));
+	System.out.println(treeSet2);
+	}
 }
