@@ -1,4 +1,7 @@
-类的命名应为大写,为了方便这里均为小写,如果用的到请自行修改
+#javacore
+
+java核心基础
+
 
 demo01 ->  变量量,标识符,进制转化
 
@@ -127,6 +130,7 @@ demo10 ->  线程
 	  demo07 -> 线程的停止 
 	  demo08 -> 守护线程（后台线程）
 	  demo09 -> join方法
+	  线程池: http://blog.csdn.net/weixin_38626484/article/details/78755541
 	  
 demo11 ->  集合
 
@@ -140,3 +144,75 @@ demo11 ->  集合
 	  demo08 -> 迭代器
 	  demo09 -> 集合体系说明
 	  demo10 -> 去重
+	  
+demo12 ->  集合
+
+ 	  demo01 -> linkedList
+	  demo02 -> 安全机制--泛型
+	  demo03 -> 自定义泛型
+	  demo04 -> 泛型的用途
+	  demo05 -> 泛型接口
+	  demo06 -> 泛型的上下限
+	  demo07 -> hashSet
+	  demo08 -> TreeSet
+	  demo09 -> TreeSet对字符串的比较
+	  
+demo13 ->  Map
+
+ 	  demo01 -> Map介绍
+	  demo02 -> Map迭代
+	  demo03 -> hashMap
+	  demo04 -> TreeMap
+
+demo14 ->  IO流
+
+ 	  demo01 -> 什么是IO流
+	  demo02 -> 路径
+	  demo03 -> 文件创建
+	  demo04 -> 删除,判断
+	  demo05 -> 获取
+	  demo06 -> 文件夹相关
+	  demo07 -> 文件过滤
+	  demo08 -> 文件读取--InputStream
+	  demo09 -> 文件写入--OutputStream
+	  demo10 -> 文件读取 加强--BufferInputStream
+	  demo11 -> 文件写入 加强--BufferOutputStream
+
+demo15 ->  字符流,序列流等
+
+ 	  demo01 -> FileWriter
+	  demo02 -> FileReader
+	  demo03 -> SequenceInputStream
+	  demo04 -> 对象流
+	  demo05 -> Properties配置文件
+	  demo06 -> printStream
+	  demo07 -> 编,解码
+	  demo08 -> 转换流
+
+demo16 ->  网路编程
+
+ 	  demo01 -> IP
+	  demo02 -> TCP--DemoServer02
+	  demo03 -> TCP--DemoClient02
+	  demo04 -> UDP--Demo03Receive
+	  demo05 -> UDP--Demo03Sender
+	  http://blog.csdn.net/weixin_38626484/article/details/78730846
+	  
+demo17 -> 设计模式--单例
+
+	  demo01 -> 单例模式--懒汉式
+	  demo02 -> 单例模式--饿汉式/双重校验锁
+	  demo03 -> 单例模式--枚举
+	  demo04 -> 单例模式--静态内部类
+
+demo18 -> 设计模式--代理(jdk实现动态代理)
+
+	  PanjinlianDao     -> 被代理对象接口
+	  PanjinlianDaoImpl -> 被代理对象具体实现 
+	  ProxyWangpo       -> 代理对象
+	  Ximenqing         -> 客户端
+		
+类的命名应为大写,为了方便这里均为小写,如果用的到请自行修改
+
+ 关于synchronized关键字
+ http://blog.csdn.net/weixin_38626484/article/details/78635434
