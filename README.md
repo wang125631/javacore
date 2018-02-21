@@ -211,6 +211,42 @@ demo18 -> 设计模式--代理(jdk实现动态代理)
 	  PanjinlianDaoImpl -> 被代理对象具体实现 
 	  ProxyWangpo       -> 代理对象
 	  Ximenqing         -> 客户端
+	
+demo19 -> 设计模式--模板方法
+	
+	  AbstractClass -> 抽象类
+	  Client -> 具体实现类
+
+demo20 -> 设计模式 -- 享元模式
+
+	  Flyweight -> 抽象享元对象
+	  CurrentFlyweight -> 当前享元对象
+	  FlyweightFactory -> 工厂类
+	  Client -> 具体实现类
+
+demo21 -> 设计模式 -- 责任链
+
+	  Handler -> 抽象处理类
+	  ConcreateHandler -> 具体处理类
+	  Client -> 实现类
+	  
+demo22 -> 设计模式 -- 装饰者模式
+
+	  IThridParty -> 顶级接口
+	  ThridParty -> 原生对象
+	  Decorator1 -> 第一次加强
+	  Decorator2 -> 第二次加强
+	  Client -> 实现类
+
+demo23 -> 设计模式 -- 工厂模式
+
+	  Shape -> 顶级接口
+	  Circle -> 产品圆 
+	  Rectangle -> 产品矩阵
+	  Square -> 产品正方形
+	  ShapeFactory -> 工厂类
+	  Client -> 实现类
+	
 		
 类的命名应为大写,为了方便这里均为小写,如果用的到请自行修改
 
