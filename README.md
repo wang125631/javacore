@@ -246,6 +246,35 @@ demo23 -> 设计模式 -- 工厂模式
 	  Square -> 产品正方形
 	  ShapeFactory -> 工厂类
 	  Client -> 实现类
+
+demo24 -> 设计模式 -- 建造者模式
+
+	  Item -> 商品接口
+	  Packing -> 打包接口
+	      Bottle -> 瓶装方式
+	      Warpper -> 包裹方式
+	  Burger -> 汉堡抽象类
+	 	  VegBurger -> 蔬菜汉堡
+	  	  ChickBurger -> 鸡肉汉堡
+	  ColdDrink -> 冷饮抽象类
+	  	  Coke -> 可口可乐类
+	  	  Pepsi -> 百事可乐类
+	  Meal -> 餐单类
+	  MealBuilder -> 餐单构建类
+	  Client -> 实现类
+	  	  
+demo25 -> 设计模式 -- 原型模式
+
+	  Shape -> 抽象类(实现Cloneable接口,重写clone方法)
+	      Rectangle -> 扩展实体类矩阵
+	      Square -> 扩展实体类正方形
+	      Circle -> 扩展实体类圆
+	   ShapeCache -> 数据存储类
+	   Client -> 实体类(用来获取存储类中形状的clone)
+	     
+
+	  	  	  
+
 	
 		
 类的命名应为大写,为了方便这里均为小写,如果用的到请自行修改
