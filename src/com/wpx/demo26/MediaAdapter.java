@@ -13,7 +13,7 @@ public class MediaAdapter implements IMediaPlayer{
 	}
 	
 	@Override
-	public void paly(String audioType, String fileName) {
+	public void play(String audioType, String fileName) {
 		if(audioType.equalsIgnoreCase("vlc")) {
 			advancedMusicPlayer.palyVlc(fileName);
 		}else if(audioType.equalsIgnoreCase("mp4")) {

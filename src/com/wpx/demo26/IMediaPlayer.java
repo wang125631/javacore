@@ -5,5 +5,6 @@ package com.wpx.demo26;
  * @author wangpx
  */
 public interface IMediaPlayer {
-	public void paly(String audioType,String fileName);
+	
+	public void play(String audioType,String fileName);
 }
