@@ -271,6 +271,41 @@ demo25 -> 设计模式 -- 原型模式
 	      Circle -> 扩展实体类圆
 	   ShapeCache -> 数据存储类
 	   Client -> 实体类(用来获取存储类中形状的clone)
+
+demo26 -> 设计模式 -- 适配器
+	 
+	 IMediaPlayer -> 媒体播放器顶级接口
+	 	MediaAdapter -> 媒体适配器
+	 	AudioPlayer -> 具体媒体类型处理
+	 IAdvanceMediaPlayer -> 高级的播放器接口
+	 	MP4Player -> MP4文件具体处理类
+	 	VlcPlayer -> Vlc文件具体处理类
+	 Client -> 实现对不同媒体进行不同的处理
+	
+demo27 -> 设计模式 --桥接模式
+	
+	IDRawAPI -> 顶级接口
+		RedCircle -> 接口实现一
+		GreenCircle -> 接口实现二
+	(A)AShape ->抽象形状类
+		Circle -> 继承AShape(通过半径,颜色组合决定)
+	Client -> 主程序
+
+demo28 -> 设计模式 --策略模式
+	
+	Stragy -> 顶级接口
+		OperationAdd -> 接口实现(策略一)
+		OperationMuitiply -> 接口实现(策略二)
+		OperationSubstract -> 接口实现(策略三)
+	Context -> 初始化指定策略模式
+	Client -> 客户端
+
+demo29 -> 设计模式 --组合模式
+	
+	Emplyee -> 员工类(包含自身类集合用于层次结构)
+	Composite -> 创建层次
+	
+	 	
 	     
 
 	  	  	  

@@ -1,6 +1,7 @@
 package com.wpx.demo28;
 
 public class Context {
+	
 	private Strategy strategy;
 	
 	public Context(Strategy strategy) {
