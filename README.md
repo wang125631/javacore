@@ -305,8 +305,29 @@ demo29 -> 设计模式 --组合模式
 	Emplyee -> 员工类(包含自身类集合用于层次结构)
 	Composite -> 创建层次
 	
-	 	
+demo30 -> 设计模式 --状态模式
+	
+	(I)IState -> 状态接口
+		(impl)StartState -> 开始状态
+		(impl)StopState -> 停止状态
+	(IState -> )Context ->  用于设置状态
+	StateDemo -> 客户端
 	     
+demo31 -> 设计模式 --命令模式
+	
+	Stock -> 股票类
+	(I)IOrder -> 订单接口
+		(impl,IOrder -> )SellStock -> 抛 
+		(impl,IOrder -> )BuyStock -> 购
+	Broker -> 股票操作类
+	CommandDemo -> 客户端
+	
+demo32 -> 设计模式 --迭代器模式
+	
+	(I)Iterator -> 迭代器接口
+	(I,iterator -> )Container -> 容器接口
+		(impl)NameList -> 姓名集合实现
+	IteratorDemo ->  客户端
 
 	  	  	  
 
