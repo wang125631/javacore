@@ -328,6 +328,28 @@ demo32 -> 设计模式 --迭代器模式
 	(I,iterator -> )Container -> 容器接口
 		(impl)NameList -> 姓名集合实现
 	IteratorDemo ->  客户端
+	
+demo33 -> 设计模式 --中介者模式
+	
+	ChatRoom -> 中介类
+	User -> 用户对象
+	Client ->  客户端
+	
+demo34 -> 设计模式 --解释器模式
+	
+	(I)Experssion -> 解释器接口
+		(Impl)TerminalExpression -> 接口实体类
+		(Impl)OrExpression -> 或表达式
+		(Impl)AndExpression -> 并表达式
+	InterpreterPatternDemo -> 解释器模式测试
+
+demo35 -> 设计模式 --备忘录模式
+	
+	Memento -> 备忘录实体
+	Originator -> 源对象
+	CareTaker -> 备忘记录
+	Client -> 客户端实例
+	
 
 	  	  	  
 
