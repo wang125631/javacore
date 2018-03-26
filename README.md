@@ -3,41 +3,69 @@
 java核心基础
 
 
-demo01 ->  [变量量,标识符,进制转化](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01)
+#变量量,标识符,进制转化
 
-	  demo01 -> 标识符
-	  demo02 -> java注释
-	  demo03 -> java文档
-	  demo04 -> 进制说明
-	  demo05 -> 变量
-	  demo06 -> 变量的声明方式
+
+[标识符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+
+[java注释](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+
+[java文档](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+
+[进制说明](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+
+[变量](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+
+[变量的声明方式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
 	  
-demo02 ->  [运算符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02)
+#运算符
 
-	  demo01 -> if简单说明
-	  demo02 -> 简单if else 判断
-	  demo03 -> 算数运算符
-	  demo04 -> 先自增(减),后自增(减)
-	  demo05 -> 复制运算符
-	  demo06 -> 比较运算符
-	  demo07 -> 逻辑运算符
-	  demo08 -> 位运算符
-	  demo09 -> 数据交换
-	  demo10 -> 左(右边)移
-	  demo11 -> 异或的简单加密处理
+
+[if简单说明](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo01.java)
+
+[简单if else 判断](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo02.java)
+
+[算数运算符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo03.java)
+
+[先自增(减),后自增(减)](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo04.java)
+
+[复制运算符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo05.java)
+
+[比较运算符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo06.java)
+
+[逻辑运算符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo07.java)
+
+[位运算符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo08.java)
+
+[数据交换](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo09.java)
+
+[左(右边)移](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo10.java)
+
+[异或的简单加密处理](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo11.java)
+
 	  
-demo03 ->  [控制语句](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03)
+#控制语句
 
-	  demo01 -> switch控制语句
-	  demo02 -> 通过输入月份判断季节
-	  demo03 -> while循环语句
-	  demo04 -> 1+...+100 的和
-	  demo05 -> do while语句
-	  demo06 -> for循环
-	  demo07 -> 打印正直角三角形
-	  demo08 -> 转义符
-	  demo09 -> break
-	  demo10 -> continue
+
+[switch控制语句](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo01.java)
+
+[通过输入月份判断季节](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo02.java)
+
+[while循环语句](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo03.java)
+
+[1+...+100 的和](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo04.java)
+
+[do while语句](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo05.java)
+
+[for循环](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo06.java)
+
+[打印正直角三角形](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo07.java)
+
+[转义符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo08.java)
+
+[break](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo09.java)
+
+[continue](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo10.java)
 
 demo04 ->  [函数,数组](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04)
 
