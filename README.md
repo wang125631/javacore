@@ -1,9 +1,9 @@
-#javacore
+# javacore
 
 java核心基础
 
 
-#变量量,标识符,进制转化
+# 变量量,标识符,进制转化
 
 
 [标识符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
@@ -18,7 +18,7 @@ java核心基础
 
 [变量的声明方式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
 	  
-#运算符
+# 运算符
 
 
 [if简单说明](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo01.java)
@@ -44,7 +44,7 @@ java核心基础
 [异或的简单加密处理](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02/demo11.java)
 
 	  
-#控制语句
+# 控制语句
 
 
 [switch控制语句](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo01.java)
