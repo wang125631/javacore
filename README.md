@@ -3,7 +3,7 @@
 java核心基础
 
 
-demo01 ->  变量量,标识符,进制转化
+demo01 ->  [变量量,标识符,进制转化](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01)
 
 	  demo01 -> 标识符
 	  demo02 -> java注释
@@ -12,7 +12,7 @@ demo01 ->  变量量,标识符,进制转化
 	  demo05 -> 变量
 	  demo06 -> 变量的声明方式
 	  
-demo02 ->  运算符
+demo02 ->  [运算符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo02)
 
 	  demo01 -> if简单说明
 	  demo02 -> 简单if else 判断
@@ -26,7 +26,7 @@ demo02 ->  运算符
 	  demo10 -> 左(右边)移
 	  demo11 -> 异或的简单加密处理
 	  
-demo03 ->  控制语句
+demo03 ->  [控制语句](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03)
 
 	  demo01 -> switch控制语句
 	  demo02 -> 通过输入月份判断季节
@@ -39,7 +39,7 @@ demo03 ->  控制语句
 	  demo09 -> break
 	  demo10 -> continue
 
-demo04 ->  函数,数组
+demo04 ->  [函数,数组](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04)
 
   	  demo01 -> 函数
   	  demo02 -> return
@@ -57,7 +57,7 @@ demo04 ->  函数,数组
 	  demo14 -> 静态初始化
 	  demo15 -> 数组小结
 	  
-demo05 ->  面向对象
+demo05 ->  [面向对象](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05)
 
 	  demo01 -> 类的定义
 	  demo02 -> 成员变量和局部变量
@@ -70,7 +70,7 @@ demo05 ->  面向对象
 	  demo09 -> static(静态)
 	  demo10 -> 通过static统计调用次数 
 
-demo06 ->  面向对象
+demo06 -> [ 面向对象](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06)
 
 	  demo01 -> main函数说明
 	  demo02 -> 懒汉式,饿汉式
@@ -83,7 +83,7 @@ demo06 ->  面向对象
 	  demo09 -> 抽象类 
 	  demo10 -> 值传递 
 
-demo07 ->  面向对象
+demo07 ->  [面向对象](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07)
 
 	  demo01 -> 单继承
 	  demo02 -> 接口定义
@@ -96,7 +96,7 @@ demo07 ->  面向对象
 	  demo09 -> 匿名内部类
 	  demo10 -> 实现关系下的匿名内部类  
 
-demo08 ->  异常机制,命名规范
+demo08 ->  [异常机制,命名规范](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08)
 
  	  demo01 -> 什么是异常
 	  demo02 -> 异常和错误
@@ -108,7 +108,7 @@ demo08 ->  异常机制,命名规范
 	  demo08 -> 打jar包
 	  demo09 -> 模板模式
 
-demo09 ->  常用工具类
+demo09 ->  [常用工具类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09)
 
  	  demo01 -> Object类
 	  demo02 -> String
@@ -119,7 +119,7 @@ demo09 ->  常用工具类
 	  demo07 -> Math类
 	  demo08 -> Random的用处 
 
-demo10 ->  线程
+demo10 -> [ 线程](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10)
 
  	  demo01 -> 什么是线程
 	  demo02 -> 线程中常用的方法
@@ -132,7 +132,7 @@ demo10 ->  线程
 	  demo09 -> join方法
 	  线程池: http://blog.csdn.net/weixin_38626484/article/details/78755541
 	  
-demo11 ->  集合
+demo11 ->  [集合](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11)
 
  	  demo01 -> Collection接口
 	  demo02 -> 判断
@@ -145,7 +145,7 @@ demo11 ->  集合
 	  demo09 -> 集合体系说明
 	  demo10 -> 去重
 	  
-demo12 ->  集合
+demo12 ->  [集合](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12)
 
  	  demo01 -> linkedList
 	  demo02 -> 安全机制--泛型
@@ -157,14 +157,14 @@ demo12 ->  集合
 	  demo08 -> TreeSet
 	  demo09 -> TreeSet对字符串的比较
 	  
-demo13 ->  Map
+demo13 ->  [Map](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo13)
 
  	  demo01 -> Map介绍
 	  demo02 -> Map迭代
 	  demo03 -> hashMap
 	  demo04 -> TreeMap
 
-demo14 ->  IO流
+demo14 ->  [IO流](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14)
 
  	  demo01 -> 什么是IO流
 	  demo02 -> 路径
@@ -178,7 +178,7 @@ demo14 ->  IO流
 	  demo10 -> 文件读取 加强--BufferInputStream
 	  demo11 -> 文件写入 加强--BufferOutputStream
 
-demo15 ->  字符流,序列流等
+demo15 ->  [字符流,序列流等](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15)
 
  	  demo01 -> FileWriter
 	  demo02 -> FileReader
@@ -189,7 +189,7 @@ demo15 ->  字符流,序列流等
 	  demo07 -> 编,解码
 	  demo08 -> 转换流
 
-demo16 ->  网路编程
+demo16 ->  [网路编程](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo16)
 
  	  demo01 -> IP
 	  demo02 -> TCP--DemoServer02
@@ -198,39 +198,39 @@ demo16 ->  网路编程
 	  demo05 -> UDP--Demo03Sender
 	  http://blog.csdn.net/weixin_38626484/article/details/78730846
 	  
-demo17 -> 设计模式--单例
+demo17 -> [设计模式--单例](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo17)
 
 	  demo01 -> 单例模式--懒汉式
 	  demo02 -> 单例模式--饿汉式/双重校验锁
 	  demo03 -> 单例模式--枚举
 	  demo04 -> 单例模式--静态内部类
 
-demo18 -> 设计模式--代理(jdk实现动态代理)
+demo18 -> [设计模式--代理](jdk实现动态代理)(https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo18)
 
 	  PanjinlianDao     -> 被代理对象接口
 	  PanjinlianDaoImpl -> 被代理对象具体实现 
 	  ProxyWangpo       -> 代理对象
 	  Ximenqing         -> 客户端
 	
-demo19 -> 设计模式--模板方法
+demo19 -> [设计模式--模板方法](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo19)
 	
 	  AbstractClass -> 抽象类
 	  Client -> 具体实现类
 
-demo20 -> 设计模式 -- 享元模式
+demo20 -> [设计模式 -- 享元模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo20)
 
 	  Flyweight -> 抽象享元对象
 	  CurrentFlyweight -> 当前享元对象
 	  FlyweightFactory -> 工厂类
 	  Client -> 具体实现类
 
-demo21 -> 设计模式 -- 责任链
+demo21 -> [设计模式 -- 责任链](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo21)
 
 	  Handler -> 抽象处理类
 	  ConcreateHandler -> 具体处理类
 	  Client -> 实现类
 	  
-demo22 -> 设计模式 -- 装饰者模式
+demo22 -> [设计模式 -- 装饰者模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo22)
 
 	  IThridParty -> 顶级接口
 	  ThridParty -> 原生对象
@@ -238,7 +238,7 @@ demo22 -> 设计模式 -- 装饰者模式
 	  Decorator2 -> 第二次加强
 	  Client -> 实现类
 
-demo23 -> 设计模式 -- 工厂模式
+demo23 -> [设计模式 -- 工厂模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo23)
 
 	  Shape -> 顶级接口
 	  Circle -> 产品圆 
@@ -247,7 +247,7 @@ demo23 -> 设计模式 -- 工厂模式
 	  ShapeFactory -> 工厂类
 	  Client -> 实现类
 
-demo24 -> 设计模式 -- 建造者模式
+demo24 -> [设计模式 -- 建造者模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo24)
 
 	  Item -> 商品接口
 	  Packing -> 打包接口
@@ -263,7 +263,7 @@ demo24 -> 设计模式 -- 建造者模式
 	  MealBuilder -> 餐单构建类
 	  Client -> 实现类
 	  	  
-demo25 -> 设计模式 -- 原型模式
+demo25 -> [设计模式 -- 原型模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo25)
 
 	  Shape -> 抽象类(实现Cloneable接口,重写clone方法)
 	      Rectangle -> 扩展实体类矩阵
@@ -272,7 +272,7 @@ demo25 -> 设计模式 -- 原型模式
 	   ShapeCache -> 数据存储类
 	   Client -> 实体类(用来获取存储类中形状的clone)
 
-demo26 -> 设计模式 -- 适配器
+demo26 -> [设计模式 -- 适配器](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo26)
 	 
 	 IMediaPlayer -> 媒体播放器顶级接口
 	 	MediaAdapter -> 媒体适配器
@@ -282,7 +282,7 @@ demo26 -> 设计模式 -- 适配器
 	 	VlcPlayer -> Vlc文件具体处理类
 	 Client -> 实现对不同媒体进行不同的处理
 	
-demo27 -> 设计模式 --桥接模式
+demo27 -> [设计模式 --桥接模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo27)
 	
 	IDRawAPI -> 顶级接口
 		RedCircle -> 接口实现一
@@ -291,7 +291,7 @@ demo27 -> 设计模式 --桥接模式
 		Circle -> 继承AShape(通过半径,颜色组合决定)
 	Client -> 主程序
 
-demo28 -> 设计模式 --策略模式
+demo28 -> [设计模式 --策略模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo28)
 	
 	Stragy -> 顶级接口
 		OperationAdd -> 接口实现(策略一)
@@ -300,12 +300,12 @@ demo28 -> 设计模式 --策略模式
 	Context -> 初始化指定策略模式
 	Client -> 客户端
 
-demo29 -> 设计模式 --组合模式
+demo29 -> [设计模式 --组合模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo29)
 	
 	Emplyee -> 员工类(包含自身类集合用于层次结构)
 	Composite -> 创建层次
 	
-demo30 -> 设计模式 --状态模式
+demo30 -> [设计模式 --状态模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo30)
 	
 	(I)IState -> 状态接口
 		(impl)StartState -> 开始状态
@@ -313,7 +313,7 @@ demo30 -> 设计模式 --状态模式
 	(IState -> )Context ->  用于设置状态
 	StateDemo -> 客户端
 	     
-demo31 -> 设计模式 --命令模式
+demo31 -> [设计模式 --命令模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo31)
 	
 	Stock -> 股票类
 	(I)IOrder -> 订单接口
@@ -322,20 +322,20 @@ demo31 -> 设计模式 --命令模式
 	Broker -> 股票操作类
 	CommandDemo -> 客户端
 	
-demo32 -> 设计模式 --迭代器模式
+demo32 -> [设计模式 --迭代器模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo32)
 	
 	(I)Iterator -> 迭代器接口
 	(I,iterator -> )Container -> 容器接口
 		(impl)NameList -> 姓名集合实现
 	IteratorDemo ->  客户端
 	
-demo33 -> 设计模式 --中介者模式
+demo33 -> [设计模式 --中介者模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo33)
 	
 	ChatRoom -> 中介类
 	User -> 用户对象
 	Client ->  客户端
 	
-demo34 -> 设计模式 --解释器模式
+demo34 -> [设计模式 --解释器模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo34)
 	
 	(I)Experssion -> 解释器接口
 		(Impl)TerminalExpression -> 接口实体类
@@ -343,7 +343,7 @@ demo34 -> 设计模式 --解释器模式
 		(Impl)AndExpression -> 并表达式
 	InterpreterPatternDemo -> 解释器模式测试
 
-demo35 -> 设计模式 --备忘录模式
+demo35 -> [设计模式 --备忘录模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo35)
 	
 	Memento -> 备忘录实体
 	Originator -> 源对象
@@ -351,10 +351,6 @@ demo35 -> 设计模式 --备忘录模式
 	Client -> 客户端实例
 	
 
-	  	  	  
-
-	
-		
 类的命名应为大写,为了方便这里均为小写,如果用的到请自行修改
 
  关于synchronized关键字
