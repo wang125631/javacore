@@ -8,15 +8,15 @@ java核心基础
 
 [标识符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
 
-[java注释](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+[java注释](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo02.java)
 
-[java文档](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+[java文档](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo03.java)
 
-[进制说明](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+[进制说明](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo04.java)
 
-[变量](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+[变量](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo05.java)
 
-[变量的声明方式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo01.java)
+[变量的声明方式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo01/demo06.java)
 	  
 # 运算符
 
@@ -67,319 +67,505 @@ java核心基础
 
 [continue](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo03/demo10.java)
 
-demo04 ->  [函数,数组](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04)
+#函数,数组
 
-  	  demo01 -> 函数
-  	  demo02 -> return
-  	  demo03 -> 定义一个简单函数
-  	  demo04 -> 数组
-  	  demo05 -> 数组中常见问题
-  	  demo06 -> 数组的初始化
-  	  demo07 -> 寻找数组的最大值
-  	  demo08 -> 选择排序
-  	  demo09 -> 冒泡排序
-  	  demo10 -> 二分法
-  	  demo11 -> 反转数组元素
-	  demo12 -> java关于工具sort,binarySearch
-	  demo13 -> 二维数组
-	  demo14 -> 静态初始化
-	  demo15 -> 数组小结
+[函数](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo01.java)
+
+[return](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo02.java)
+
+[定义一个简单函数](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo03.java)
+
+[数组](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo04.java)
+
+[数组中常见问题](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo05.java)
+
+[数组的初始化](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo06.java)
+
+[寻找数组的最大值](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo07.java)
+
+[选择排序](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo08.java)
+
+[冒泡排序](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo09.java)
+
+[二分法](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo10.java)
+
+[反转数组元素](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo11.java)
+
+[java关于工具sort,binarySearch](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo12.java)
+
+[二维数组](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo13.java)
+
+[静态初始化](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo14.java)
+
+[数组小结](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo04/demo15.java)
 	  
-demo05 ->  [面向对象](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05)
+#面向对象
 
-	  demo01 -> 类的定义
-	  demo02 -> 成员变量和局部变量
-	  demo03 -> 匿名对象
-	  demo04 -> 面向对象的三大特性---封装
-	  demo05 -> 构造函数
-	  demo06 -> 代码块 
-	  demo07 -> 构造代码块说明
-	  demo08 -> this关键字
-	  demo09 -> static(静态)
-	  demo10 -> 通过static统计调用次数 
+[类的定义](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo01.java)
 
-demo06 -> [ 面向对象](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06)
+[成员变量和局部变量](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo02.java)
 
-	  demo01 -> main函数说明
-	  demo02 -> 懒汉式,饿汉式
-	  demo03 -> 面向对象的三大特性---继承
-	  demo04 -> 继承继承属性
-	  demo05 -> super关键字
-	  demo06 -> 重写,重载
-	  demo07 -> instanceof关键字
-	  demo08 -> final关键字
-	  demo09 -> 抽象类 
-	  demo10 -> 值传递 
+[匿名对象](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo03.java)
 
-demo07 ->  [面向对象](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07)
+[面向对象的三大特性---封装](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo04.java)
 
-	  demo01 -> 单继承
-	  demo02 -> 接口定义
-	  demo03 -> 接口作用
-	  demo04 -> 类与接口
-	  demo05 -> 面向对象的三大特性---多态
-	  demo06 -> 多态的应用
-	  demo07 -> 静态内部类
-	  demo08 -> 局部内部类
-	  demo09 -> 匿名内部类
-	  demo10 -> 实现关系下的匿名内部类  
+[构造函数](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo05.java)
 
-demo08 ->  [异常机制,命名规范](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08)
+[代码块 ](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo06.java)
 
- 	  demo01 -> 什么是异常
-	  demo02 -> 异常和错误
-	  demo03 -> 抛异常
-	  demo04 -> try catch捕获异常
-	  demo05 -> 包
-	  demo06 -> 导包
-	  demo07 -> 权限修饰符
-	  demo08 -> 打jar包
-	  demo09 -> 模板模式
+[构造代码块说明](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo07.java)
 
-demo09 ->  [常用工具类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09)
+[this关键字](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo08.java)
 
- 	  demo01 -> Object类
-	  demo02 -> String
-	  demo03 -> StringBuffer
-	  demo04 -> System类
-	  demo05 -> Runtime
-	  demo06 -> Date,Calendar,SimpleDateFormat
-	  demo07 -> Math类
-	  demo08 -> Random的用处 
+[static(静态)](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo09.java)
 
-demo10 -> [ 线程](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10)
+[通过static统计调用次数](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo05/demo10.java)
 
- 	  demo01 -> 什么是线程
-	  demo02 -> 线程中常用的方法
-	  demo03 -> 经典多线程售票问题
-	  demo04 -> 死锁
-	  demo05 -> 自定义线程的创建方式
-	  demo06 -> 线程通信wait/notify
-	  demo07 -> 线程的停止 
-	  demo08 -> 守护线程（后台线程）
-	  demo09 -> join方法
-	  线程池: http://blog.csdn.net/weixin_38626484/article/details/78755541
-	  
-demo11 ->  [集合](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11)
+#面向对象
 
- 	  demo01 -> Collection接口
-	  demo02 -> 判断
-	  demo03 -> toArray 
-	  demo04 -> list
-	  demo05 -> list特有方法
-	  demo06 -> listIterator
-	  demo07 -> 遍历集合的方法
-	  demo08 -> 迭代器
-	  demo09 -> 集合体系说明
-	  demo10 -> 去重
-	  
-demo12 ->  [集合](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12)
+[main函数说明](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo01.java)
 
- 	  demo01 -> linkedList
-	  demo02 -> 安全机制--泛型
-	  demo03 -> 自定义泛型
-	  demo04 -> 泛型的用途
-	  demo05 -> 泛型接口
-	  demo06 -> 泛型的上下限
-	  demo07 -> hashSet
-	  demo08 -> TreeSet
-	  demo09 -> TreeSet对字符串的比较
-	  
-demo13 ->  [Map](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo13)
+[懒汉式,饿汉式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo02.java)
 
- 	  demo01 -> Map介绍
-	  demo02 -> Map迭代
-	  demo03 -> hashMap
-	  demo04 -> TreeMap
+[面向对象的三大特性---继承](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo03.java)
 
-demo14 ->  [IO流](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14)
+[继承继承属性](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo04.java)
 
- 	  demo01 -> 什么是IO流
-	  demo02 -> 路径
-	  demo03 -> 文件创建
-	  demo04 -> 删除,判断
-	  demo05 -> 获取
-	  demo06 -> 文件夹相关
-	  demo07 -> 文件过滤
-	  demo08 -> 文件读取--InputStream
-	  demo09 -> 文件写入--OutputStream
-	  demo10 -> 文件读取 加强--BufferInputStream
-	  demo11 -> 文件写入 加强--BufferOutputStream
+[super关键字](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo05.java)
 
-demo15 ->  [字符流,序列流等](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15)
+[重写,重载](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo06.java)
 
- 	  demo01 -> FileWriter
-	  demo02 -> FileReader
-	  demo03 -> SequenceInputStream
-	  demo04 -> 对象流
-	  demo05 -> Properties配置文件
-	  demo06 -> printStream
-	  demo07 -> 编,解码
-	  demo08 -> 转换流
+[instanceof关键字](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo07.java)
 
-demo16 ->  [网路编程](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo16)
+[final关键字](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo08.java)
 
- 	  demo01 -> IP
-	  demo02 -> TCP--DemoServer02
-	  demo03 -> TCP--DemoClient02
-	  demo04 -> UDP--Demo03Receive
-	  demo05 -> UDP--Demo03Sender
-	  http://blog.csdn.net/weixin_38626484/article/details/78730846
-	  
-demo17 -> [设计模式--单例](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo17)
+[抽象类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo09.java)
 
-	  demo01 -> 单例模式--懒汉式
-	  demo02 -> 单例模式--饿汉式/双重校验锁
-	  demo03 -> 单例模式--枚举
-	  demo04 -> 单例模式--静态内部类
+[值传递](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo06/demo10.java)
 
-demo18 -> [设计模式--代理](jdk实现动态代理)(https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo18)
+#面向对象
 
-	  PanjinlianDao     -> 被代理对象接口
-	  PanjinlianDaoImpl -> 被代理对象具体实现 
-	  ProxyWangpo       -> 代理对象
-	  Ximenqing         -> 客户端
+[单继承](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo01.java)
+
+[接口定义](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo02.java)
+
+[接口作用](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo03.java)
+
+[类与接口](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo04.java)
+
+[面向对象的三大特性---多态](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo05.java)
+
+[多态的应用](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo06.java)
+
+[静态内部类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo07.java)
+
+[局部内部类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo08.java)
+
+[匿名内部类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo09.java)
+
+[实现关系下的匿名内部类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo07/demo10.java)
+
+#异常机制,命名规范
+
+[什么是异常](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08/demo01.java)
+
+[异常和错误](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08/demo02.java)
+
+[抛异常](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08/demo03.java)
+
+[try catch捕获异常](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08/demo04.java)
+
+[包](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08/demo05.java)
+
+[导包](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08/demo06.java)
+
+[权限修饰符](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08/demo07.java)
+
+[打jar包](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08/demo08.java)
+
+[模板模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo08/demo09.java)
+
+#常用工具类
+
+[Object类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09/demo01.java)
+
+[String](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09/demo02.java)
+
+[StringBuffer](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09/demo03.java)
+
+[System类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09/demo04.java)
+
+[Runtime](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09/demo05.java)
+
+[Date,Calendar,SimpleDateFormat](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09/demo06.java)
+
+[Math类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09/demo07.java)
+
+[Random的用处](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo09/demo08.java)
+
+#线程
+
+[什么是线程](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10/demo01.java)
+
+[线程中常用的方法](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10/demo02.java)
+
+[经典多线程售票问题](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10/demo03.java)
+
+[死锁](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10/demo04.java)
+
+[自定义线程的创建方式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10/demo05.java)
+
+[线程通信wait/notify](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10/demo06.java)
+
+[线程的停止 ](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10/demo07.java)
+
+[守护线程（后台线程）](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10/demo08.java)
+
+[join方法](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo10/demo09.java)
 	
-demo19 -> [设计模式--模板方法](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo19)
-	
-	  AbstractClass -> 抽象类
-	  Client -> 具体实现类
-
-demo20 -> [设计模式 -- 享元模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo20)
-
-	  Flyweight -> 抽象享元对象
-	  CurrentFlyweight -> 当前享元对象
-	  FlyweightFactory -> 工厂类
-	  Client -> 具体实现类
-
-demo21 -> [设计模式 -- 责任链](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo21)
-
-	  Handler -> 抽象处理类
-	  ConcreateHandler -> 具体处理类
-	  Client -> 实现类
+[线程池]( http://blog.csdn.net/weixin_38626484/article/details/78755541)
 	  
-demo22 -> [设计模式 -- 装饰者模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo22)
+#集合
 
-	  IThridParty -> 顶级接口
-	  ThridParty -> 原生对象
-	  Decorator1 -> 第一次加强
-	  Decorator2 -> 第二次加强
-	  Client -> 实现类
+[Collection接口](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo01.java)
 
-demo23 -> [设计模式 -- 工厂模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo23)
+[判断](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo02.java)
 
-	  Shape -> 顶级接口
-	  Circle -> 产品圆 
-	  Rectangle -> 产品矩阵
-	  Square -> 产品正方形
-	  ShapeFactory -> 工厂类
-	  Client -> 实现类
+[toArray](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo03.java)
 
-demo24 -> [设计模式 -- 建造者模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo24)
+[list](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo04.java)
 
-	  Item -> 商品接口
-	  Packing -> 打包接口
-	      Bottle -> 瓶装方式
-	      Warpper -> 包裹方式
-	  Burger -> 汉堡抽象类
-	 	  VegBurger -> 蔬菜汉堡
-	  	  ChickBurger -> 鸡肉汉堡
-	  ColdDrink -> 冷饮抽象类
-	  	  Coke -> 可口可乐类
-	  	  Pepsi -> 百事可乐类
-	  Meal -> 餐单类
-	  MealBuilder -> 餐单构建类
-	  Client -> 实现类
+[list特有方法](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo05.java)
+
+[listIterator](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo06.java)
+
+[遍历集合的方法](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo07.java)
+
+[迭代器](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo08.java)
+
+[集合体系说明](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo09.java)
+
+[去重](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo11/demo10.java)
+	  
+#集合
+
+[linkedList](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12/demo01.java)
+
+[安全机制--泛型](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12/demo02.java)
+
+[自定义泛型](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12/demo03.java)
+
+[泛型的用途](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12/demo04.java)
+
+[泛型接口](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12/demo05.java)
+
+[泛型的上下限](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12/demo06.java)
+
+[hashSet](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12/demo07.java)
+
+[TreeSet](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12/demo08.java)
+
+[TreeSet对字符串的比较](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo12/demo09.java)
+	  
+#Map
+
+[Map介绍](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo13/demo01.java)
+
+[Map迭代](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo13/demo02.java)
+
+[hashMap](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo13/demo03.java)
+
+[TreeMap](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo13/demo04.java)
+
+#IO流 
+
+[什么是IO流](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo01.java)
+
+[路径](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo02.java)
+
+[文件创建](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo03.java)
+
+[删除,判断](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo04.java)
+
+[获取](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo05.java)
+
+[文件夹相关](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo06.java)
+
+[文件过滤](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo07.java)
+
+[文件读取--InputStream](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo08.java)
+
+[文件读取 加强--BufferInputStream](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo10.java)
+
+[文件写入 加强--BufferOutputStream](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo14/demo11.java)
+
+#字符流,序列流等
+
+[FileWriter](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15/demo01.java)
+
+[FileReader](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15/demo02.java)
+
+[SequenceInputStream](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15/demo03.java)
+
+[对象流](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15/demo04.java)
+
+[Properties配置文件](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15/demo05.java)
+
+[printStream](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15/demo06.java)
+
+[编,解码](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15/demo07.java)
+
+[转换流](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo15/demo08.java)
+
+#网路编程
+
+[IP](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo16/demo01.java)
+
+[TCP--DemoServer02](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo16/Demo02Server.java)
+
+[TCP--DemoClient02](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo16/Demo02Client.java)
+
+[UDP--Demo03Receive](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo16/Demo03Receive.java)
+
+[UDP--Demo03Sender](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo16/Demo03Sender.java)
+	  
+[Blog_网络编程](http://blog.csdn.net/weixin_38626484/article/details/78730846)
+	  
+	  
+#设计模式--单例
+
+
+[单例模式--懒汉式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo17/demo01.java)
+
+[单例模式--饿汉式/双重校验锁](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo17/demo02.java)
+
+[单例模式--枚举](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo17/demo03.java)
+
+[单例模式--静态内部类](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo17/demo04.java)
+
+
+#设计模式--代理(jdk实现动态代理)
+
+[被代理对象接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo18/PanjinlianDao.java)
+
+[被代理对象具体实现](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo18/PanjinlianDaoImpl.java)
+
+[代理对象](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo18/ProxyWangpo.java)
+
+[客户端](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo18/Ximenqing.java)
+	
+	
+#设计模式--模板方法
+	
+	
+[抽象类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo19/AbstractClass.java)
+
+[具体实现类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo19/Client.java)
+
+#设计模式 -- 享元模式
+
+[抽象享元对象](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo20/Flyweight.java)
+
+[当前享元对象](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo20/CurrrentFlyweight.java)
+
+[工厂类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo20/FlyweightFactory.java)
+
+[具体实现类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo20/Client.java)
+
+#设计模式 -- 责任链
+
+[抽象处理类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo21/Handler.java)
+
+[具体处理类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo21/ConcreateHandler.java)
+
+[实现类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo21/Client.java)
+	  
+#设计模式 -- 装饰者模式
+
+[顶级接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo22/IThridParty.java)
+
+[原生对象](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo22/ThridParty.java)
+
+[第一次加强](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo22/Decorator1.java)
+
+[第二次加强](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo22/Decorator2.java)
+
+[实现类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo22/Client.java)
+
+#设计模式 -- 工厂模式
+
+[顶级接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo23/Shape.java)
+
+[产品圆](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo23/Circle.java)
+
+[产品矩阵](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo23/Rectangle.java)
+
+[产品正方形](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo23/Square.java)
+
+[工厂类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo23/ShapeFactory.java)
+
+[实现类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo23/Client.java)
+
+#设计模式 -- 建造者模式
+
+[商品接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/Item.java)
+
+[打包接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/Packing.java)
+
+[瓶装方式](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/Bottle.java)
+
+[包裹方式](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/Warpper.java)
+
+[汉堡抽象类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/Burger.java)
+
+[蔬菜汉堡](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/VegBurger.java)
+
+[鸡肉汉堡](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/ChickenBurger.java)
+
+[冷饮抽象类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/ColdDrink.java)
+
+[可口可乐类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/Coke.java)
+
+[百事可乐类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/Pepsi.java)
+
+[餐单类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/Meal.java)
+
+[餐单构建类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/MealBuilder.java)
+
+[实现类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo24/Client.java)
 	  	  
-demo25 -> [设计模式 -- 原型模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo25)
+#设计模式 -- 原型模式
 
-	  Shape -> 抽象类(实现Cloneable接口,重写clone方法)
-	      Rectangle -> 扩展实体类矩阵
-	      Square -> 扩展实体类正方形
-	      Circle -> 扩展实体类圆
-	   ShapeCache -> 数据存储类
-	   Client -> 实体类(用来获取存储类中形状的clone)
+[抽象类(实现Cloneable接口,重写clone方法)](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo25/Shape.java)
 
-demo26 -> [设计模式 -- 适配器](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo26)
+[扩展实体类矩阵](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo25/Rectangle.java)
+
+[扩展实体类正方形](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo25/Square.java)
+
+[扩展实体类圆](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo25/Circle.java)
+
+[数据存储类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo25/ShapeCache.java)
+
+[实体类(用来获取存储类中形状的clone)](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo25/Client.java)
+
+#设计模式 -- 适配器
 	 
-	 IMediaPlayer -> 媒体播放器顶级接口
-	 	MediaAdapter -> 媒体适配器
-	 	AudioPlayer -> 具体媒体类型处理
-	 IAdvanceMediaPlayer -> 高级的播放器接口
-	 	MP4Player -> MP4文件具体处理类
-	 	VlcPlayer -> Vlc文件具体处理类
-	 Client -> 实现对不同媒体进行不同的处理
-	
-demo27 -> [设计模式 --桥接模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo27)
-	
-	IDRawAPI -> 顶级接口
-		RedCircle -> 接口实现一
-		GreenCircle -> 接口实现二
-	(A)AShape ->抽象形状类
-		Circle -> 继承AShape(通过半径,颜色组合决定)
-	Client -> 主程序
+[媒体播放器顶级接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo26/IMediaPlayer.java)
 
-demo28 -> [设计模式 --策略模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo28)
-	
-	Stragy -> 顶级接口
-		OperationAdd -> 接口实现(策略一)
-		OperationMuitiply -> 接口实现(策略二)
-		OperationSubstract -> 接口实现(策略三)
-	Context -> 初始化指定策略模式
-	Client -> 客户端
+[媒体适配器](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo26/MediaAdapter.java)
 
-demo29 -> [设计模式 --组合模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo29)
+[具体媒体类型处理](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo26/AudioPlayer.java)
+
+[高级的播放器接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo26/IAdvancedMediaPlayer.java)
+
+[MP4文件具体处理类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo26/Mp4Player.java)
+
+[Vlc文件具体处理类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo26/VlcPalyer.java)
+
+[实现对不同媒体进行不同的处理](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo26/Client.java)
 	
-	Emplyee -> 员工类(包含自身类集合用于层次结构)
-	Composite -> 创建层次
+#设计模式 --桥接模式
 	
-demo30 -> [设计模式 --状态模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo30)
+[顶级接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo27/IDrawAPI.java)
+
+[接口实现一](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo27/RedCircle.java)
+
+[接口实现二](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo27/GreenCircle.java)
+
+[抽象形状类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo27/AShape.java)
+
+[继承AShape(通过半径,颜色组合决定)](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo27/Circle.java)
+
+[主程序](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo27/Client.java)
+
+#设计模式 --策略模式
 	
-	(I)IState -> 状态接口
-		(impl)StartState -> 开始状态
-		(impl)StopState -> 停止状态
-	(IState -> )Context ->  用于设置状态
-	StateDemo -> 客户端
+[顶级接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo28/Strategy.java)
+
+[接口实现(策略一)](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo28/OperationAdd.java)
+
+[接口实现(策略二)](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo28/OperationMultiply.java)
+
+[接口实现(策略三)](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo28/OperationSubstract.java)
+
+[初始化指定策略模式](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo28/Context.java)
+
+[客户端](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo28/Cilent.java)
+
+#设计模式 --组合模式
+	
+[员工类](包含自身类集合用于层次结构)(https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo29/Employee.java)
+
+[创建层次](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo29/Composite.java)
+	
+#设计模式 --状态模式
+	
+[状态接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo30/IState.java)
+
+[开始状态](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo30/StartState.java)
+
+[停止状态](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo30/StopState.java)
+
+[用于设置状态](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo30/Context.java)
+
+[客户端](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo30/StateDemo.java)
 	     
-demo31 -> [设计模式 --命令模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo31)
+#设计模式 --命令模式
 	
-	Stock -> 股票类
-	(I)IOrder -> 订单接口
-		(impl,IOrder -> )SellStock -> 抛 
-		(impl,IOrder -> )BuyStock -> 购
-	Broker -> 股票操作类
-	CommandDemo -> 客户端
-	
-demo32 -> [设计模式 --迭代器模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo32)
-	
-	(I)Iterator -> 迭代器接口
-	(I,iterator -> )Container -> 容器接口
-		(impl)NameList -> 姓名集合实现
-	IteratorDemo ->  客户端
-	
-demo33 -> [设计模式 --中介者模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo33)
-	
-	ChatRoom -> 中介类
-	User -> 用户对象
-	Client ->  客户端
-	
-demo34 -> [设计模式 --解释器模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo34)
-	
-	(I)Experssion -> 解释器接口
-		(Impl)TerminalExpression -> 接口实体类
-		(Impl)OrExpression -> 或表达式
-		(Impl)AndExpression -> 并表达式
-	InterpreterPatternDemo -> 解释器模式测试
+[股票类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo31/Stock.java)
 
-demo35 -> [设计模式 --备忘录模式](https://github.com/wang125631/javacore/tree/master/src/com/wpx/demo35)
+[订单接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo31/IOrder.java)
+
+[抛](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo31/SellStock.java)
+
+[购](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo31/BuyStock.java)
+
+[股票操作类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo31/Broker.java)
+
+[客户端](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo31/CommandDemo.java)
 	
-	Memento -> 备忘录实体
-	Originator -> 源对象
-	CareTaker -> 备忘记录
-	Client -> 客户端实例
+#设计模式 --迭代器模式
 	
+[迭代器接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo32/Iterator.java)
+
+[容器接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo32/Container.java)
+
+[姓名集合实现](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo32/NameList.java)
+
+[客户端](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo32/IteratorDemo.java)
+	
+#设计模式 --中介者模式
+	
+[中介类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo33/ChatRoom.java)
+
+[用户对象](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo33/User.java)
+
+[客户端](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo33/Client.java)
+	
+#设计模式 --解释器模式
+	
+[解释器接口](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo34/Expression.java)
+
+[接口实体类](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo34/TerminalExpression.java)
+
+[或表达式](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo34/OrExpression.java)
+
+[并表达式](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo34/AndExpression.java)
+
+[解释器模式测试](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo34/InterpreterPatternDemo.java)
+
+#设计模式 --备忘录模式
+	
+[备忘录实体](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo35/Memento.java)
+
+[源对象](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo35/Originator.java)
+
+[备忘记录](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo35/CareTaker.java)
+
+[客户端实例](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo35/Client.java)
+	
+
 
 类的命名应为大写,为了方便这里均为小写,如果用的到请自行修改
 
- 关于synchronized关键字
- http://blog.csdn.net/weixin_38626484/article/details/78635434
+[synchronized关键字](http://blog.csdn.net/weixin_38626484/article/details/78635434)
