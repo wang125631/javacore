@@ -1,5 +1,7 @@
 
 <div align="center"><span style="border-bottom:3px solid green"><font size="40">java核心基础</font></span></div>
+	
+
 <br>
 <br>
 
@@ -570,3 +572,7 @@
 类的命名应为大写,为了方便这里均为小写,如果用的到请自行修改
 
 [synchronized关键字](http://blog.csdn.net/weixin_38626484/article/details/78635434)
+
+<br><br>
+
+**欢迎[star](https://github.com/wang125631/javacore)** <del>打赏<del> 
