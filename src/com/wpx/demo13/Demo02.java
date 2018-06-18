@@ -14,7 +14,7 @@ import java.util.Set;
 
  * @author wangpx
  */
-public class demo02 {
+public class Demo02 {
 
 	public static void main(String[] args) {
 	

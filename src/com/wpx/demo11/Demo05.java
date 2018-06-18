@@ -23,7 +23,7 @@ import java.util.List;
 
  * @author wangpx
  */
-public class demo05 {
+public class Demo05 {
 
 	public static void main(String[] args) {
 		List list =new ArrayList<String>();

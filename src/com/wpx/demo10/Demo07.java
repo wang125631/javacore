@@ -7,11 +7,11 @@ package com.wpx.demo10;
  	
  * @author wangpx
  */
-public class demo07 extends Thread {
+public class Demo07 extends Thread {
 
 	boolean flag = true;
 	
-	public demo07(String name) {
+	public Demo07(String name) {
 		super(name);
 	}
 	
@@ -31,7 +31,7 @@ public class demo07 extends Thread {
 		}
 	}
 	public static void main(String[] args) {
-		demo07 d=new demo07("wpx");
+		Demo07 d=new Demo07("wpx");
 		d.setPriority(10);
 		d.start();
 		

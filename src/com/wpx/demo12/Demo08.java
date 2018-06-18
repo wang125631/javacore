@@ -57,7 +57,7 @@ class MyComparator implements Comparator<Student8>{
 	}
 	
 }
-public class demo08 {
+public class Demo08 {
 
 	public static void main(String[] args) {
 	

@@ -26,7 +26,7 @@ import java.io.IOException;
 		4. ¹Ø±Õ ×ÊÔ´.
  * @author wangpx
  */
-public class demo08 {
+public class Demo08 {
 
 	public static void main(String[] args) throws Exception {
 		readFile04();

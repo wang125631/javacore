@@ -39,7 +39,7 @@ class Son extends Thread{
 		System.out.println("上楼，把酱油给老妈");
 	}
 }
-public class demo09 {
+public class Demo09 {
 
 	public static void main(String[] args) {
 	Mon m=new Mon();

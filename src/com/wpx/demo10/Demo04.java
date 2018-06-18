@@ -1,7 +1,6 @@
 package com.wpx.demo10;
 /**
  * java中同步机制解决了线程安全问题，但是也同时引发死锁现象。
-
 	死锁现象：
 	
 	死锁现象出现 的根本原因：
@@ -9,7 +8,6 @@ package com.wpx.demo10;
 		2. 存在两个或者两个以上的共享资源。
 		
 	死锁现象的解决方案： 没有方案。只能尽量避免发生而已。
-
  * @author wangpx
  */
 class DeadLock extends Thread{
@@ -48,7 +46,7 @@ class DeadLock extends Thread{
 	}
 	
 }
-public class demo04 {
+public class Demo04 {
 
 	public static void main(String[] args) {
 		DeadLock thread1 = new DeadLock("person1");

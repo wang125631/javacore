@@ -18,7 +18,7 @@ import java.io.File;
 
  * @author wangpx
  */
-public class demo04 {
+public class Demo04 {
 
 	public static void main(String[] args) {
 		File file =new File("D:/javacore");

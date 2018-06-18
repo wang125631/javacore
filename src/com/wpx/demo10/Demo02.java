@@ -19,7 +19,7 @@ import java.util.MissingFormatArgumentException;
 	 设置线程的优先级    虽然设置了线程的优先级，但是具体的实现取决于底层的操作系统的实现（最大的优先级是10 ，最小的1 ， 默认是5）。
  * @author wangpx
  */
-public class demo02 extends Thread {
+public class Demo02 extends Thread {
 
 	@Override
 	public void run() {
@@ -35,7 +35,7 @@ public class demo02 extends Thread {
 	
 	}
 	public static void main(String[] args) {
-		demo02 d=new demo02();
+		Demo02 d=new Demo02();
 		d.start();
 }
 }

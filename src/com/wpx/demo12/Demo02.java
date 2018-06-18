@@ -27,7 +27,7 @@ import java.util.ArrayList;
 注意： 泛型没有多态的概念，左右两边的数据 类型必须 要一致，或者只是写一边的泛型类型。
  * @author wangpx
  */
-public class demo02 {
+public class Demo02 {
 
 	public static void main(String[] args) {
 	ArrayList<String>  list = new ArrayList<String>();  //<String> 表示该容器只能存储字符串类型 的数据。

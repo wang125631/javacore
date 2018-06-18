@@ -25,10 +25,10 @@ package com.wpx.demo12;
 interface Dao<T>{
 	public void add(T t);
 }
-public class demo05<T>  implements Dao<T>{
+public class Demo05<T>  implements Dao<T>{
 
 	public static void main(String[] args) {
-		demo05<String> d = new demo05<String>();
+		Demo05<String> d = new Demo05<String>();
 		d.add("Hello Wolrd! ");
 	}
 	@Override

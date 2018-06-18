@@ -24,7 +24,7 @@ import java.util.ListIterator;
 			
 	 * @author wangpx
  */
-public class demo06 {
+public class Demo06 {
 
 	public static void main(String[] args) {
 		List list =new ArrayList<String>();

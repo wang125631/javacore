@@ -12,7 +12,7 @@ import java.util.Collection;
  * @author wangpx
  */
 
-public class demo02 {
+public class Demo02 {
 
 public static void main(String[] args) {
 	Collection c=new ArrayList<Student>();

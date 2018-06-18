@@ -11,7 +11,7 @@ import java.util.ListIterator;
 	第三种： 使用迭代器逆序遍历。
  * @author wangpx
  */
-public class demo07 {
+public class Demo07 {
 
 	public static void main(String[] args) {
 		List list =new ArrayList<String>();

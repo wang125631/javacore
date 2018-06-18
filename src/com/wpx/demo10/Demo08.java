@@ -5,9 +5,9 @@ package com.wpx.demo10;
  *   一个线程默认都不是守护线程。
  * @author wangpx
  */
-public class demo08 extends Thread {
+public class Demo08 extends Thread {
 
-	public demo08(String name) {
+	public Demo08(String name) {
 		super(name);
 	}
 	@Override
@@ -27,7 +27,7 @@ public class demo08 extends Thread {
 	}
 
 	public static void main(String[] args) {
-		demo08 d=new demo08("守护线程");
+		Demo08 d=new Demo08("守护线程");
 		//d.setDaemon(true);//setDaemon() 设置线程是否为守护线程，true为守护线程， false为非守护线程。
 		System.out.println(d.isDaemon());
 		d.start();

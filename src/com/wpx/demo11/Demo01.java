@@ -43,7 +43,7 @@ Collection接口中的方法：
 
  * @author wangpx
  */
-public class demo01 {
+public class Demo01 {
 
 	public static void main(String[] args) {
 		Collection c =new ArrayList<String>();

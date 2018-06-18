@@ -28,7 +28,7 @@ import java.util.Iterator;
 	-------------------| TreeSet  
  * @author wangpx
  */
-public class demo07 {
+public class Demo07 {
 
 	@SuppressWarnings("all")
 	public static void main(String[] args) {

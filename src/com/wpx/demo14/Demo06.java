@@ -14,7 +14,7 @@ import java.io.File;
  * 
  * @author wangpx
  */
-public class demo06 {
+public class Demo06 {
 
 	public static void main(String[] args) {
 		File[] listRoots = File.listRoots();

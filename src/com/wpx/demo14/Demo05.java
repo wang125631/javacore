@@ -15,7 +15,7 @@ import java.util.Date;
 	
  * @author wangpx
  */
-public class demo05 {
+public class Demo05 {
 
 	public static void main(String[] args) {
 		

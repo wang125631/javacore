@@ -23,7 +23,7 @@ List接口中特有方法：
 		listIterator()
  * @author wangpx
  */
-public class demo04 {
+public class Demo04 {
 
 	public static void main(String[] args) {
 	List list =new ArrayList<String>();

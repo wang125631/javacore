@@ -19,6 +19,6 @@ ArrayList 特有的方法：
 	ArrayList底层是维护了一个Object数组实现 的，使用无参构造函数时，Object数组默认的容量是10，当长度不够时，自动增长0.5倍。
  * @author wangpx
  */
-public class demo09 {
+public class Demo09 {
 
 }

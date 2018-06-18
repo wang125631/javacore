@@ -51,7 +51,7 @@ class MyComparator implements Comparator<Person>{
 
 	
 }
-public class demo04 {
+public class Demo04 {
 
 	public static void main(String[] args) {
 		//传入比较器

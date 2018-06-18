@@ -3,13 +3,9 @@ package com.wpx.demo10;
  * 需求： 模拟3个窗口同时在售50张 票 。
  
 问题1 ：为什么50张票被卖出了150次？
-
 出现 的原因： 因为num是非静态的，非静态的成员变量数据是在每个对象中都会维护一份数据的,三个线程对象就会有三份。
-
 解决方案：把num票数共享出来给三个线程对象使用。使用static修饰。
-
 问题2： 出现了线程安全问题 ?
-
 线程 安全问题的解决方案：sun提供了线程同步机制让我们解决这类问题的。
 	
 	java线程同步机制的方式：
@@ -21,7 +17,6 @@ package com.wpx.demo10;
 				synchronized(锁对象){
 					需要被同步的代码...
 				}
-
 	同步代码块要注意事项：
 			1. 任意的一个对象都可以做为锁对象。
 			2. 在同步代码块中调用了sleep方法并不是释放锁对象的。
@@ -77,7 +72,7 @@ class SaleTicket extends Thread{
 	
 }
 
-public class demo03 {
+public class Demo03 {
 	public static void main(String[] args) {
 		//创建三个线程对象，模拟三个窗口
 		SaleTicket thread1 = new SaleTicket("窗口1");

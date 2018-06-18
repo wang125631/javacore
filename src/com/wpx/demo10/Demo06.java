@@ -79,7 +79,7 @@ class Customer extends Thread{
 	
 	
 }
-public class demo06 {
+public class Demo06 {
 
 	public static void main(String[] args) {
 		Product p=new Product();

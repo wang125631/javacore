@@ -8,7 +8,7 @@ import java.util.Iterator;
  * 
  * @author wangpx
  */
-public class demo10 {
+public class Demo10 {
 
 	public static void main(String[] args) {
 		ArrayList list=  new ArrayList();

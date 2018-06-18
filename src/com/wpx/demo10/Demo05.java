@@ -19,7 +19,7 @@ package com.wpx.demo10;
  * 
  * @author wangpx
  */
-public class demo05 implements Runnable{
+public class Demo05 implements Runnable{
 
 	@Override
 	public void run() {
@@ -27,7 +27,7 @@ public class demo05 implements Runnable{
 		
 	}
 	public static void main(String[] args) {
-		demo05 d=new demo05();
+		Demo05 d=new Demo05();
 		Thread t1=new Thread(d, "t1");
 		Thread t2=new  Thread(() ->  {
 			System.out.println("t2 is runing.... ");

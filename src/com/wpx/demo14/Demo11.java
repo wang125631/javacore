@@ -25,7 +25,7 @@ import java.io.IOException;
 	 
  * @author wangpx
  */
-public class demo11 {
+public class Demo11 {
 
 	public static void main(String[] args) throws IOException {
 		//创建目标文件

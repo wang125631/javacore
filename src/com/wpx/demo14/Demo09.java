@@ -32,7 +32,7 @@ import java.io.IOException;
  * 
  * @author wangpx
  */
-public class demo09 {
+public class Demo09 {
 
 	public static void main(String[] args) throws IOException {
 		writerFile02();

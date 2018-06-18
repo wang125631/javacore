@@ -12,7 +12,7 @@ import java.util.ListIterator;
  	迭代元素 的过程中: 迭代器创建到使用结束的时间。
  * @author wangpx
  */
-public class demo08 {
+public class Demo08 {
 
 	public static void main(String[] args) {
 		List list =new ArrayList<String>();

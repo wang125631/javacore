@@ -11,7 +11,7 @@ class MyFilter implements FilenameFilter{
 	}
 }
 
-public class demo07 {
+public class Demo07 {
 
 	public static void main(String[] args) {
 	File f1=new File("D:\\nodejs\\javacore\\src\\com\\wpx");
