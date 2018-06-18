@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 /**
- * ����
+ * 将集合转化为数组
 	toArray()
  * @author wangpx
  */
@@ -18,6 +18,6 @@ public class demo03 {
 		c.add(new Student(12, "wpx"));
 
 		Object[] array = c.toArray();
-		//TODO ����
+		//TODO
 	}
 }
