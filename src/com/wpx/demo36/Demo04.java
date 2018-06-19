@@ -1,5 +1,6 @@
 package com.wpx.demo36;
 
+import java.util.function.BiPredicate;
 import java.util.function.Function;
 import java.util.function.Supplier;
 
@@ -40,17 +41,26 @@ public class Demo04 {
 	 */
 	@Test
 	public void test02() {
+		
 		Supplier<String> sup = TestMethod::show;
 		System.out.println(sup.get());
+		
+		BiPredicate<String, String> bip = (x,y) -> x.equals(y);
+		BiPredicate<String, String> bip2 = String::equals;
 	}
 	/**
 	 * 方法引用
 	 * 类::实例方法名
+	 * 
+	 * 第一个参数为实例方法的的调用者,第二个参数为实例方法的参数
 	 */
 	@Test
 	public void test03() {
+		
 		Function<TestMethod, String> fun = TestMethod::say;
 		System.out.println(fun.apply(new TestMethod()));
+		
+	
 	}
 	
 
