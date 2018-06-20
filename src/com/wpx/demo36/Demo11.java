@@ -140,5 +140,20 @@ public class Demo11 {
 		Map<Integer, List<Student06>> collect = studentList.stream()
 				   .collect(Collectors.groupingBy(Student06::getClassId));
 		collect.entrySet().forEach(System.out::println);
+		
+		//先班级 后名称
+		Map<Integer, Map<String, List<Student06>>> collect2 = studentList.stream()
+		           .collect(Collectors.groupingBy(Student06::getClassId,Collectors.groupingBy(Student06::getName)));
+		collect2.entrySet().forEach(System.out::println);
+		}
+	/**
+	 * 分区
+	 */
+	@Test
+	public void test05() {
+		Map<Boolean, List<Student06>> collect = studentList.stream()
+				   .collect(Collectors.partitioningBy( (e) -> e.getId()<2));
+		collect.entrySet().forEach(System.out::println);
 	}
+	
 }
