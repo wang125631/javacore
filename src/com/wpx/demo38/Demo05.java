@@ -1,5 +1,7 @@
 package com.wpx.demo38;
 
+import java.util.Date;
+
 /**
  * 
  * == 和 equals的区别
@@ -56,6 +58,7 @@ public class Demo05 {
 		String s2 = new String("wpx");
 		System.out.println(s1.equals(s2));
 		
+
 		//5. equals 和hashCode 的问题
 		/**
 		 * 对象底层数据的存储采用hash算法 给对象一个哈希值
