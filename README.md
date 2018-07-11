@@ -624,6 +624,8 @@
 
 [反转数组](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo38/Demo06.java)
 
+[java定义二叉树](https://github.com/wang125631/javacore/blob/master/src/com/wpx/demo38/Demo07.java)
+
 
 [synchronized关键字](http://blog.csdn.net/weixin_38626484/article/details/78635434)
 
