@@ -92,9 +92,9 @@ public class Demo07 {
 			j=j+2;
 		}
 		/**
-		 * 2 
-		 * 	 4
-		 *     6
+		 * 2根 
+		 * 	 4右
+		 *     6右
 		 */
 		System.out.println("前序遍历 : 预期值 2 4 6");
 		root.perList();
